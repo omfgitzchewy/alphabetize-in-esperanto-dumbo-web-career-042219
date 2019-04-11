@@ -5,6 +5,6 @@ def alphabetize(arr)
   #     esperanto.index(letter)
   #   end
   # end
-  ascii = "@ABCDEFGHIJKLMNOPQRSTUVWXYZ&"
+  ascii = "ABCDEFGHIJKLMNOPQRSTUVWXYZ&@"
   arr.sort_by{|string| string.tr(esperanto, ascii)}
 end
