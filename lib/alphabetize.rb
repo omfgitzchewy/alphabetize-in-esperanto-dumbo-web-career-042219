@@ -6,7 +6,7 @@ def alphabetize(array)
     end
   end
 
-  # figuring this out
+  # figuring this code out...
   # ascii = "@!ABCDEFGHIJKLMNOPQRSTUVWXYZ"
   # arr.sort_by{|string| string.tr(esperanto, ascii)}
 
