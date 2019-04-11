@@ -1,7 +1,7 @@
 def alphabetize(arr)
    esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   array.sort_by do |string|
-    string.split("").map do |letter|
+    string.split("").collect do |letter|
       esperanto.index(letter)
     end
   end
