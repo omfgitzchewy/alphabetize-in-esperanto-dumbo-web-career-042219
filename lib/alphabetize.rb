@@ -1,4 +1,4 @@
-def alphabetize(array)
+def alphabetize(arr)
   # esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   # array.sort_by do |word|
   #   word.split("").collect do |letter|
