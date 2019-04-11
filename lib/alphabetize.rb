@@ -17,6 +17,5 @@ def alphabetize(arr)
      esp_alph.index(string[2]),
      esp_alph.index(string[3]),
      esp_alph.index(string[4]),
-     esp_alph.index(string[5]),
-     esp_alph.index(string[6])]}
+     esp_alph.index(string[5])]}
 end
