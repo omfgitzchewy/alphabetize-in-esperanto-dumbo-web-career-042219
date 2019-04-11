@@ -8,6 +8,6 @@ def alphabetize(array)
 
   # figuring this code out...
   # ascii = "@!ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-  # arr.sort_by{|string| string.tr(esperanto, ascii)}
+  # array.sort_by{|string| string.tr(esperanto, ascii)}
 
 end
